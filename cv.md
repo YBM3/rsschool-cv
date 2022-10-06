@@ -1,5 +1,4 @@
 [My website portfolio ](https://ybm3.github.io./)
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta content="text/html; charset=UTF-8">
@@ -7,9 +6,6 @@
 <div>
   <div>
     <h1>Aliaksandr Porakh</h1>
-    <div>
-      <img src="https://github.com/YBM3/YBM3.github.io/blob/main/123.jpg" alt="my photo" width=20% hight=20%></img>
-    </div>
     <h4>Junior JavaScript Developer</h4>
     <hr>
     <p>Contact:</p>
@@ -30,7 +26,6 @@
         <li>CSS</li>
         <li>Linux, Ubuntu</li>
         <li>C++</li>
-  </div>
   <div>
     <div></div>
     <div>
@@ -117,6 +112,3 @@
     </div>
     </div>
   </div>
-</div>
-</body>
-</html>
