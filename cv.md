@@ -7,15 +7,14 @@
   <div>
     <h1>Aliaksandr Porakh</h1>
     <h4>Junior JavaScript Developer</h4>
-    <hr>
-    <p>Contact:</p>
+    <h2>Contact:</h2>
     <p>Phone number: +48884364572</p>
     <p>Gmail: Sashapohh@gmail.com</p>
     <div>
       <p><a href="https://www.linkedin.com/in/aliaksandr-porakh-34ba96235/" target="_blank">linkedin</a></p>
       <p><a href="https://github.com/YBM3" target="_blank">Github</a></p>
     </div>
-      <h4>Skills</h4>
+      <h2>Skills</h2>
       <ul>
         <li>HTML</li>
         <li>MySQL</li>
